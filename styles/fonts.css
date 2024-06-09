@@ -1,0 +1,24 @@
+/* Font: Arial */
+.font-arial {
+    font-family: Arial, sans-serif;
+}
+
+/* Font: Times New Roman */
+.font-times-new-roman {
+    font-family: "Times New Roman", Times, serif;
+}
+
+/* Font: Courier New */
+.font-courier-new {
+    font-family: "Courier New", Courier, monospace;
+}
+
+/* Font: Georgia */
+.font-georgia {
+    font-family: Georgia, serif;
+}
+
+/* Font: Verdana */
+.font-verdana {
+    font-family: Verdana, Geneva, sans-serif;
+}

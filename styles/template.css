@@ -1,0 +1,6 @@
+
+/* Element zentrieren */
+.center {
+    display: flex;
+    justify-content: center;
+}
